@@ -1,4 +1,7 @@
-# ApiPipelineG14
+# Grupo 14
+- Laura Rodriguez - 201816069
+- John Guzmán - 201713338
+- Jaime Carvajal - 201632567
  
 ## Pasos para correr el api:
 #### Instalar vitualenv
